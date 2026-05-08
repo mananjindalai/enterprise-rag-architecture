@@ -1,16 +1,15 @@
-# Retrieval Patterns
+# Retrieval Pipelines
 
-This module implements various retrieval strategies for RAG systems.
+This module focuses on retrieval strategies for scalable RAG architectures.
 
 ## Topics:
-- Vector Search
+- Vector Retrieval
 - Hybrid Search
 - Metadata Filtering
-- Query Expansion
 - Multi-query Retrieval
+- Query Expansion
 
 ## Focus Areas:
-- Retrieval Accuracy
-- Relevance Scoring
-- Performance Optimization
-- Context Quality
+- Recall Optimization
+- Precision Improvement
+- Latency Reduction

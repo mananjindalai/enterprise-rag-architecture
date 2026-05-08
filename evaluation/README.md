@@ -1,17 +1,15 @@
 # RAG Evaluation
 
-This module implements evaluation frameworks for RAG systems using RAGAS and other metrics.
+This module focuses on evaluating RAG system quality and reliability.
 
 ## Topics:
-- RAGAS Integration
-- Faithfulness Evaluation
-- Context Precision
+- RAGAS
+- Faithfulness
 - Context Recall
+- Context Precision
 - Hallucination Detection
-- Answer Relevancy
 
 ## Focus Areas:
+- AI Reliability
+- Response Quality
 - Automated Evaluation
-- Benchmarking
-- Continuous Testing
-- Quality Metrics
