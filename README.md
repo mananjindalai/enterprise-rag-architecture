@@ -196,3 +196,153 @@ enterprise-rag-architecture/
 Detailed technical documentation is available inside the /docs folder.
 
 Documentation topics include:
+
+| Topic | Description |
+|-------|-------------|
+| chunking.md | Chunking strategies and tradeoffs |
+| retrieval.md | Retrieval patterns and optimization |
+| reranking.md | Reranking techniques |
+| evaluation.md | RAG evaluation using RAGAS |
+| observability.md | LLM monitoring and tracing |
+| scaling.md | Scalability and latency optimization |
+| security.md | AI security and guardrails |
+| deployment.md | Production deployment considerations |
+
+⸻
+
+## 🚀 Development Roadmap
+
+### Phase 1 — Core RAG
+- PDF ingestion
+- Recursive chunking
+- Embeddings generation
+- FAISS retrieval
+
+⸻
+
+### Phase 2 — Advanced Retrieval
+- Hybrid retrieval
+- Metadata filtering
+- Multi-query retrieval
+- Query transformation
+
+⸻
+
+### Phase 3 — Reranking & Optimization
+- Cross-encoder reranking
+- Context compression
+- Retrieval optimization
+
+⸻
+
+### Phase 4 — Evaluation
+- RAGAS integration
+- Hallucination scoring
+- Faithfulness evaluation
+- Automated evaluation pipelines
+
+⸻
+
+### Phase 5 — LLMOps & Observability
+- Prompt tracing
+- LangFuse integration
+- Monitoring dashboards
+- Feedback loops
+
+⸻
+
+### Phase 6 — Enterprise Deployment
+- Dockerization
+- API gateway
+- Kubernetes deployment
+- Scalable AI infrastructure
+
+⸻
+
+## 🧠 Architectural Principles
+
+This repository follows the following engineering principles:
+- Modular Design
+- Scalable Architecture
+- Evaluation-first Development
+- Observability-driven AI Systems
+- Cost-aware AI Engineering
+- Enterprise-grade Reliability
+
+⸻
+
+## ⚡ Key Focus Areas
+
+The primary focus is not just building RAG demos but understanding:
+- Why specific architectural decisions are made
+- Tradeoffs between retrieval strategies
+- Scalability implications
+- AI evaluation methodologies
+- Production deployment patterns
+- Enterprise AI system design
+
+⸻
+
+## 🔐 Responsible AI Considerations
+
+Topics explored include:
+- Hallucination Reduction
+- Guardrails
+- Prompt Injection Prevention
+- Secure Retrieval Pipelines
+- Data Privacy
+- AI Governance
+
+⸻
+
+## 🔮 Future Enhancements
+
+Planned future enhancements include:
+- Agentic RAG Systems
+- GraphRAG
+- Multi-modal RAG
+- Knowledge Graph Integration
+- Adaptive Retrieval
+- Real-time Streaming Pipelines
+- Autonomous AI Workflows
+
+⸻
+
+## ✍️ Articles & Learning Resources
+
+### Medium
+https://medium.com/@manan_jindal
+
+### Website
+https://mananjindal.com
+
+### LinkedIn
+https://www.linkedin.com/in/mananjindal/
+
+⸻
+
+## 💡 Purpose of This Repository
+
+This repository is being built as:
+- A practical AI architecture learning system
+- An enterprise RAG experimentation platform
+- A scalable AI engineering reference
+- A public knowledge base for production-grade GenAI systems
+
+⸻
+
+## 🤝 Contributions
+
+This repository is currently focused on experimentation, learning, architecture exploration, and production-grade AI engineering practices.
+
+Future contributions and discussions are welcome.
+
+⸻
+
+## 🚀 Author
+
+**Manan Jindal**
+
+Generative AI Architect | Enterprise AI Systems | RAG | Agentic AI | LLMOps
+
+Building scalable AI systems with practical architecture patterns, evaluation frameworks, and enterprise AI design principles.
